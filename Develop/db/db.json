@@ -1,6 +1,7 @@
 [
+
     {
-        "title":"Test Title",
-        "text":"Test text"
+        "title":"Note taker",
+        "text":"This application will allow you to add and delete notes"
     }
 ]
